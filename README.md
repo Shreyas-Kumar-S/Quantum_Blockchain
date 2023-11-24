@@ -27,3 +27,9 @@
 * Shreyash Kumar S
 * Shaswat Kaushik
 * Vaidik Chhirolya
+
+##Youtube links:
+The links provided below would help you understand the concepts and solutions in a much more proper way.
+1.Basic General Idea : https://youtu.be/hlOw1xysR04
+2.Deeper Discussions: https://youtu.be/qKdhKEkkuf0
+3.Codes and Proposed structures: https://youtu.be/qKdhKEkkuf0
